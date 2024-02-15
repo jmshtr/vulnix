@@ -1,4 +1,4 @@
-# VulnCheckr
+# vulnix
 
 ## Introduction
 
@@ -8,17 +8,17 @@ This project implements a simple vulnerability checker that aims to identify pot
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/jmshtr/VulnCheckr.git
+   git clone https://github.com/jmshtr/vulnix.git
    ```
 
 2. **Compile the Code:** Compile the code using a C++ compiler. For example, using g++:
    ```
-   g++ main.cpp -o VulnCheckr
+   g++ main.cpp -o vulnix
    ```
 
 3. **Run the Program:** Run the compiled executable:
    ```
-   ./VulnCheckr
+   ./vulnix
    ```
 
 4. **View Vulnerability Checks:** The program will check for vulnerabilities in the provided source code and display the results.
